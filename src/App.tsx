@@ -3,7 +3,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Layout from './pages/Layout';
 import Home from './pages/Home';
 import Podcasts from './pages/Podcasts';
-import MovieList from './pages/Movies';
+import MovieList from './movie/Movies';
 
 export default function App() {
   return (
